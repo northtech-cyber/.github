@@ -11,7 +11,7 @@ Aqui vais aprender **na prática**: cada fase termina com um mini-projeto, revis
 | Nível | Programa | Para quem | Duração |
 |---|---|---|---|
 | **1** | 🟢 [**Cyber Base**](https://github.com/northtech-cyber/cyber-base) | Quem começa do zero. **Começa aqui.** | 12 semanas · 11 fases |
-| **2** | 🔵 [**Cyber SOC**](https://github.com/northtech-cyber/cyber-soc) | Quem terminou o Cyber Base | Em preparação |
+| **2** | 🔵 **Cyber SOC** | Quem terminou o Cyber Base | Em breve |
 
 ---
 
