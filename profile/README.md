@@ -1,8 +1,17 @@
 # 🛡️ Bem-vindo à North Tech Cyber
 
-Este é o programa de mentoria em **Cibersegurança (SOC / Blue Team)** da North Tech.
+Este é o programa de mentoria em **Cibersegurança** da North Tech.
 
-Aqui vais aprender **na prática**: um desafio por semana, revisão de um mentor e, no fim, um **portfólio no GitHub** que mostra a recrutadores o que sabes fazer.
+Aqui vais aprender **na prática**: cada fase termina com um mini-projeto, revisto e apresentado ao mentor. No fim tens um **portfólio no GitHub** que mostra a recrutadores o que sabes fazer.
+
+---
+
+## 📚 Os programas
+
+| Nível | Programa | Para quem | Duração |
+|---|---|---|---|
+| **1** | 🟢 [**Cyber Base**](https://github.com/northtech-cyber/cyber-base) | Quem começa do zero. **Começa aqui.** | 12 semanas · 11 fases |
+| **2** | 🔵 [**Cyber SOC**](https://github.com/northtech-cyber/cyber-soc) | Quem terminou o Cyber Base | Em preparação |
 
 ---
 
@@ -39,9 +48,9 @@ No teu `cyber-journey`: **Settings → Collaborators → Add people** → escrev
 
 Assim o mentor pode rever o teu trabalho e comentar diretamente.
 
-### ✅ Passo 5 — Faz o Desafio 00
+### ✅ Passo 5 — Começa a Fase 0
 
-Lê o [Código de Conduta](https://github.com/northtech-cyber/programa-cyber/blob/main/CODIGO-DE-CONDUTA.md) e segue o [Desafio 00](https://github.com/northtech-cyber/programa-cyber/blob/main/desafios/00-adiciona-te.md): vais adicionar o teu nome à lista oficial de mentorados com o teu **primeiro Pull Request**.
+Lê o [Código de Conduta](https://github.com/northtech-cyber/cyber-base/blob/main/CODIGO-DE-CONDUTA.md) e abre a [**Fase 0 — Preparar o Laboratório e Ética**](https://github.com/northtech-cyber/cyber-base/blob/main/fases/fase-00-laboratorio-e-etica.md). Nela vais montar o teu laboratório e fazer o teu **primeiro Pull Request**.
 
 ### ✅ Passo 6 — Envia o link ao mentor
 
@@ -49,28 +58,29 @@ Manda ao mentor o link do teu portfólio (`github.com/<teu-username>/cyber-journ
 
 ---
 
-## 🗺️ Como funciona o programa
+## 📅 Como funciona cada semana
+
+| Dia | O que fazes |
+|---|---|
+| **Segunda** | Exercício do primeiro dia da fase |
+| **Terça a quinta** | Exercícios e perguntas do mentor, na issue da fase |
+| **Sexta e sábado** | Mini-projeto, publicado no teu `cyber-journey` |
+| **Domingo** | Apresentação do mini-projeto ao mentor (5 a 10 min) |
+
+**Carga sugerida:** 8 a 10 horas por semana. Uma fase só termina quando o mini-projeto estiver **entregue e apresentado**.
 
 | | |
 |---|---|
-| 📚 **Programa** | [`programa-cyber`](https://github.com/northtech-cyber/programa-cyber): roadmap, regras e desafios |
-| 🧑‍💻 **O teu portfólio** | `<teu-username>/cyber-journey`: onde fazes e mostras o teu trabalho |
-| 📌 **Desafios semanais** | Publicados no separador [Issues](https://github.com/northtech-cyber/programa-cyber/issues) |
-| 💬 **Dúvidas** | No separador [Discussions](https://github.com/northtech-cyber/programa-cyber/discussions) |
-
-**O ciclo de cada semana:** lês o desafio → fazes no teu `cyber-journey` → abres um Pull Request → o mentor e um colega revêem → melhoras → está no teu portfólio.
-
-### O percurso
-
-`Fase 0` Git e GitHub → `Fase 1` Redes, Linux e Windows → `Fase 2` Tráfego e logs → `Fase 3` SIEM e deteção → `Fase 4` Resposta a incidentes → `Fase 5` Projeto final e entrevistas
-
-Detalhe completo no [roadmap](https://github.com/northtech-cyber/programa-cyber/blob/main/roadmap/README.md).
+| 🗺️ **Roadmap** | [As 11 fases do Cyber Base](https://github.com/northtech-cyber/cyber-base/blob/main/roadmap/README.md) |
+| 📤 **Como entregar** | [Branch, Pull Request e entrega](https://github.com/northtech-cyber/cyber-base/blob/main/COMO-ENTREGAR.md) |
+| 📌 **Fases da semana** | Separador [Issues](https://github.com/northtech-cyber/cyber-base/issues) |
+| 💬 **Dúvidas** | Separador [Discussions](https://github.com/northtech-cyber/cyber-base/discussions) |
 
 ---
 
 ## ❓ Ficaste bloqueado?
 
-É normal no início. Pergunta nas [Discussions](https://github.com/northtech-cyber/programa-cyber/discussions) ou fala com o mentor. Nenhuma pergunta é parva.
+É normal no início. Pergunta nas [Discussions](https://github.com/northtech-cyber/cyber-base/discussions) ou fala com o mentor. Nenhuma pergunta é parva.
 
 ---
 
